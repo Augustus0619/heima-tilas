@@ -35,6 +35,8 @@ public interface EmpService
 
     void update(Emp emp);
 
+    Emp login(Emp emp);
+
 
 
 }
